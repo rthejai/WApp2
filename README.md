@@ -2,3 +2,5 @@
 For TINFO 431A by Thejai Riem
 
 For my project in this class I will be working alone. This means that I will solely be in charge of all development. I plan to of course use ASP.NET MVC 5, HTML for front-end development, manage a database, and maybe in the end host it all on cloud using Microsoft Azure. The theme of the site will be a computer parts site like Newegg.com. There will be a shopping cart, pages to browse products, accounts to register for, and will utilize CSS and Jquery to facelift the front-end of the website even more than what HTML alone can do.
+
+In unrelated terms if you are reading this I did not add an extra change to the "Student" model in my Contonso  University till Pdy06, so if you are looking for the extra identifier for the "Student" model it will be under Pdy06 and not Pdy05. Thank you.
